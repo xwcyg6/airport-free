@@ -6,17 +6,25 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 8元老牌专线机场：cczzuu.top, server: efan.dnsefan04881.com, port: 7754, type: vmess, uuid: 009e558d-3cf4-49d8-b5e4-82c9e14fe1a4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 Microsoft数据中心, server: 20.164.221.1, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: WUpTYsnFmIND14vx}
-  - {name: 🇳🇿 新西兰 starcorenode.com, server: 202.37.33.81, port: 443, type: vless, uuid: 3b01a777-55e7-49f6-8637-d94ee69607c6, tls: true, alpn: [http/1.1], tfo: false, skip-cert-verify: false, servername: m.udemy.com.cyylr.eu.cc, client-fingerprint: chrome, network: ws, ws-opts: {path: /id-tksi, headers: {Host: m.udemy.com.cyylr.eu.cc}}}
-  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.236.220.10, port: 443, type: trojan, password: s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui, sni: 172.236.220.10, skip-cert-verify: false}
-  - {name: 🇧🇬 保加利亚 starcorenode.com, server: 87.120.126.205, port: 443, type: vless, uuid: 91e120bc-159a-4390-b4e1-197b19602ea0, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: sub.sbrf-cdn342.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇦 乌克兰 starcorenode.com, server: 91.225.217.28, port: 443, type: vless, uuid: 296bbba2-b100-4d91-b8df-3fe03cc863c4, tls: true, tfo: false, skip-cert-verify: false, reality-opts: {public-key: CnFVrSvJ1Mhl_6QqKCCvXtEdlaJjN4MXWBkSswJ_gX0, short-id: "106c" }, servername: yahoo.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 美国 CloudFlare节点, server: a1-tss.pages.dev, port: 443, type: vless, uuid: f86f5a03-3872-46b5-bf03-a50388a0261d, tls: true, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: a1-tss.pages.dev}}}
-  - {name: 🇨🇳 台湾省 starcorenode.com, server: 211.76.176.98, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: false}
-  - {name: 🇬🇧 英国 威尔士阿伯斯威大学, server: 144.124.228.113, port: 443, type: vless, uuid: ea484535-0170-4ec8-bb3c-a9dbaa7412d7, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, reality-opts: {public-key: odHeTqoDcoPA6jeZStmaFPqoFg0ZiWwOKREEB0X-ez4, short-id: "e069bfaf9ba2069c" }, servername: nl3.panel11.ru, client-fingerprint: chrome, network: tcp}
-  - {name: 🇨🇳 台湾省 starcorenode.com 2, server: jpbgp.netvigor.cc, port: 19128, type: trojan, password: gcuCpQfaiVeDBdWG, sni: yazhou10.dynu.net, skip-cert-verify: false}
-  - {name: 🇩🇪 德国 黑森州法兰克福Linode数据中心, server: 172.104.237.100, port: 443, type: trojan, password: VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY, sni: 172.104.237.100, skip-cert-verify: false}
-  - {name: 🇺🇸 美国 starcorenode.com, server: 45.130.125.206, port: 443, type: vless, uuid: f9fa9ed3-1381-441c-8672-588cbedd012d, tls: true, tfo: false, skip-cert-verify: false, servername: r.bibak.bz, network: ws, ws-opts: {path: /, headers: {Host: r.bibak.bz}}}
+  - {name: 🇺🇸 美国 starcorenode.com, server: 138.2.112.117, port: 15807, type: vless, uuid: 00000000-0000-4000-8000-000000000000, tls: true, tfo: false, skip-cert-verify: false, servername: 57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org, network: ws, ws-opts: {path: /@Marisa_kristifp=chrome, headers: {Host: 57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org}}}
+  - {name: 🇺🇸 美国 starcorenode.com 2, server: 65.20.90.225, port: 443, type: trojan, password: Tu1fZjElnkRg0ECRj0sI0u54PY8ptUmATg, sni: www.sandbox-cloud.click, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡 Skydio公司, server: 114.129.43.30, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime04.workers.dev}}}
+  - {name: 🇲🇩 摩尔多瓦 starcorenode.com, server: 185.170.166.30, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime04.workers.dev}}}
+  - {name: 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司, server: 72.167.230.30, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime51.workers.dev}}}
+  - {name: 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司, server: 130.94.65.52, port: 443, type: trojan, password: IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U, sni: www.static-cast.click, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点, server: 172.235.63.252, port: 443, type: trojan, password: bX_lNHWoW6ywq82mI=KUr+8i__VSp0Hs_E, sni: 172.235.63.252, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University, server: s298.okgg.top, port: 443, type: vless, uuid: bc7c7c10-8f24-332e-b303-fb3c8943c24f, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: false, servername: u712927u3556s298.okgg.top, client-fingerprint: random, network: tcp}
+  - {name: 🇿🇦 南非 starcorenode.com, server: 45.192.224.30, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime17.workers.dev}}}
+  - {name: 🇰🇷 韩国 KT电信, server: 121.178.83.161, port: 26214, type: trojan, password: GKHWMe2R4qwNcNxu6l3KMkdd, sni: vpn1.rnmcnm.com, skip-cert-verify: false, network: ws, ws-opts: {path: /trj-ws, headers: {Host: vpn1.rnmcnm.com}}}
+  - {name: 🇺🇸 美国 Akamai科技公司CDN网络节点 2, server: 172.236.220.10, port: 443, type: trojan, password: s_WEN9lMmufG+qDIsn-4C7JOVAnDdbS3Ui, sni: 172.236.220.10, skip-cert-verify: false}
+  - {name: 🇺🇸 美国 starcorenode.com 3, server: 149.104.109.74, port: 21273, type: ss, cipher: chacha20-ietf-poly1305, password: Ll6cYfXM5DzQbdtMMb72A_jqVnNljU3yqe}
+  - {name: 🇺🇸 美国 CloudFlare节点, server: 172.65.111.43, port: 22, type: vless, uuid: 8a38623a-3e7f-5598-bdc9-894cbad4c5b6, tls: false, tfo: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/@monacoVPN@monacoVPN@monacoVPN@monacoVPN]}}
+  - {name: 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2, server: 50.62.198.50, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vms.lifetime39.workers.dev}}}
+  - {name: 🇰🇷 韩国 KT电信 2, server: 121.180.171.43, port: 11310, type: trojan, password: GKHWMe2R4qwNcNxu6l3KMkdd, sni: vpn1.rnmcnm.com, skip-cert-verify: false, network: ws, ws-opts: {path: /trj-ws, headers: {Host: vpn1.rnmcnm.com}}}
+  - {name: 欧盟 starcorenode.com, server: 45.80.110.30, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime51.workers.dev}}}
+  - {name: 🇬🇧 英国 starcorenode.com, server: 77.75.199.30, port: 8880, type: vless, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, tls: false, tfo: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: vms.lifetime59.workers.dev}}}
+  - {name: 🇺🇸 美国 starcorenode.com 4, server: 45.143.131.216, port: 42769, type: vless, uuid: 00000000-0000-4000-8000-000000000000, tls: true, tfo: false, skip-cert-verify: false, servername: 57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org, network: ws, ws-opts: {path: /@Marisa_kristifp=chrome, headers: {Host: 57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org}}}
+  - {name: 🇬🇧 英国 starcorenode.com 2, server: 82.198.246.250, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -24,17 +32,25 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -42,17 +58,25 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -60,68 +84,100 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: 📢 谷歌FCM
     type: select
     proxies:
@@ -129,17 +185,25 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -163,17 +227,25 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 8元老牌专线机场：cczzuu.top
-      - 🇺🇸 美国 Microsoft数据中心
-      - 🇳🇿 新西兰 starcorenode.com
-      - 🇺🇸 美国 Akamai科技公司CDN网络节点
-      - 🇧🇬 保加利亚 starcorenode.com
-      - 🇺🇦 乌克兰 starcorenode.com
-      - 🇺🇸 美国 CloudFlare节点
-      - 🇨🇳 台湾省 starcorenode.com
-      - 🇬🇧 英国 威尔士阿伯斯威大学
-      - 🇨🇳 台湾省 starcorenode.com 2
-      - 🇩🇪 德国 黑森州法兰克福Linode数据中心
       - 🇺🇸 美国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 2
+      - 🇸🇬 新加坡 Skydio公司
+      - 🇲🇩 摩尔多瓦 starcorenode.com
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司
+      - 🇺🇸 美国 科罗拉多州阿拉帕霍县格林伍德村市NTT美国股份有限公司
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点
+      - 🇷🇺 俄罗斯 Rubtsovsk Branch of Altai State University
+      - 🇿🇦 南非 starcorenode.com
+      - 🇰🇷 韩国 KT电信
+      - 🇺🇸 美国 Akamai科技公司CDN网络节点 2
+      - 🇺🇸 美国 starcorenode.com 3
+      - 🇺🇸 美国 CloudFlare节点
+      - 🇺🇸 美国 亚利桑那州斯科茨代尔市Go Daddy集团公司 2
+      - 🇰🇷 韩国 KT电信 2
+      - 欧盟 starcorenode.com
+      - 🇬🇧 英国 starcorenode.com
+      - 🇺🇸 美国 starcorenode.com 4
+      - 🇬🇧 英国 starcorenode.com 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
